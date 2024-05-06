@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Valorant AutoTracker](https://github.com/aritra-codes/valorant-autotracker)
 
-- 📫 How to reach me **aritra8.codes@gmail.com**
+- 📫 Reach me by emailing **aritra8.codes@gmail.com**
 
 ## 📱 Connect with me
 <p align="left">
@@ -80,3 +80,6 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-codes&" alt="aritra-codes's streak"/>
 </p>
+
+---
+<h1 align="center">Thank you! ❤️</h1>
