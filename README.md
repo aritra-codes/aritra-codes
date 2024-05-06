@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
 <h3 align="center">Aspiring software developer, love learning new things. ✨</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/></p>
 
 - 🔭 I’m currently working on [Valorant AutoTracker](https://github.com/aritra-codes/valorant-autotracker)
 
@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/aritra_codes" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritra_codes" height="30" width="40" />
+    <a href="https://twitter.com/aritra_codes">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritra_codes" height="30" width="40"/>
     </a>
-    <a href="https://www.youtube.com/c/aritracodes" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aritracodes" height="30" width="40" />
+    <a href="https://www.youtube.com/c/aritracodes">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aritracodes" height="30" width="40"/>
     </a>
 </p>
 
