@@ -1,7 +1,15 @@
+<p align="center">
+    <img src="readme_files/banner-rounded.png"/>
+</p>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Aritra</h1>
 <h3 align="center">Aspiring software developer, love learning new things. ✨</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/></p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/>
+</p>
 
 - 🔭 I’m currently working on [Valorant AutoTracker](https://github.com/aritra-codes/valorant-autotracker)
 
@@ -60,7 +68,6 @@
 </p>
 
 <h3 align="left">📊 Stats:</h3>
-
 <!-- GitHub Stats -->
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aritra-codes&show_icons=true&locale=en" alt="aritra-codes's stats"/>
