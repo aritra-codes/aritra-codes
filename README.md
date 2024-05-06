@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aritra8.codes@gmail.com**
 
-<h3 align="left">📱 Connect with me:</h3>
+## 📱 Connect with me
 <p align="left">
     <a href="https://twitter.com/aritra_codes">
         <img align="center" src="readme_files/x-logo.png" alt="aritra_codes" width="40"/>
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+## 🔧 Languages and Tools
 <p align="left"> 
     <a href="https://getbootstrap.com" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="40"/>
@@ -67,7 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra-codes&show_icons=true&locale=en&layout=compact" alt="aritra-codes's most used languages"/>
 </p>
 
-<h3 align="left">📊 Stats:</h3>
+## 📊 Stats
 <!-- GitHub Stats -->
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aritra-codes&show_icons=true&locale=en" alt="aritra-codes's stats"/>
