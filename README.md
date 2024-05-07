@@ -7,16 +7,16 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
 <h3 align="center">Aspiring software developer, love learning new things. ✨</h3>
 
-<p align="center">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/>
-</p>
+</div>
 
 - 🔭 I’m currently working on [Valorant AutoTracker](https://github.com/aritra-codes/valorant-autotracker)
 
 - 📫 Reach me by emailing **aritra8.codes@gmail.com**
 
 ## 📱 Connect with me
-<p align="left">
+<div>
     <a href="https://linktr.ee/aritracodes">
         <img align="center" src="readme_files/linktree-logo.png" alt="linktree" height="40"/>
     </a>
@@ -26,10 +26,10 @@
     <a href="https://www.youtube.com/@AritraCodes?sub_confirmation=1">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40"/>
     </a>
-</p>
+</div>
 
 ## 🔧 Languages and Tools
-<p align="left"> 
+<div> 
     <a href="https://getbootstrap.com" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="40"/>
     </a>
@@ -63,7 +63,7 @@
     <a href="https://www.sqlite.org/" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
-</p>
+</div>
 
 <!-- GitHub Most Used Languages -->
 <p>
