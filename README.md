@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Aritra</h1>
-<h3 align="center">Aspiring software developer, love learning new things. ✨</h3>
+<h3 align="center">Shining software developer, love learning new things. ✨</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/>
