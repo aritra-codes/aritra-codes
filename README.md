@@ -17,7 +17,9 @@
 
 ## 📱 Connect with me
 <div>
-    <a href="https://linktr.ee/aritracodes"><img align="center" src="readme_files/linktree-logo.png" alt="linktree" height="40"/></a>
+    <a href="https://linktr.ee/aritracodes">
+    <img align="center" src="readme_files/linktree-logo.png" alt="linktree" height="40"/>
+    </a>
     <a href="https://twitter.com/aritra_codes"><img align="center" src="readme_files/x-logo.png" alt="x (twitter)" height="40"/></a>
     <a href="https://www.youtube.com/@AritraCodes?sub_confirmation=1"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40"/></a>
 </div>
