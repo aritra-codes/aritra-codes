@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=aritra-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-codes"/>
 </p>
 
-- 🔭 I’m currently working on [Sparx Bookwork Tracker](https://github.com/aritra-codes/sparx-bookwork-tracker)
+- 🔭 I’m currently working on [Rainmeter Timetable](https://github.com/aritra-codes/rainmeter-timetable)
 
 - 📫 Reach me by emailing **aritra8.codes@gmail.com**
 
